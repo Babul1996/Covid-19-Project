@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Covid-19-Project/static/css/main.33fdc11e.css",
+    "main.js": "/Covid-19-Project/static/js/main.bc75b372.js",
+    "static/media/back.jpg": "/Covid-19-Project/static/media/back.97bc0d9551df23ad4cf3.jpg",
+    "index.html": "/Covid-19-Project/index.html",
+    "main.33fdc11e.css.map": "/Covid-19-Project/static/css/main.33fdc11e.css.map",
+    "main.bc75b372.js.map": "/Covid-19-Project/static/js/main.bc75b372.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33fdc11e.css",
+    "static/js/main.bc75b372.js"
+  ]
+}
